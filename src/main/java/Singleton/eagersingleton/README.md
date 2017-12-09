@@ -1,0 +1,1 @@
+Code sample for my devlopg article in : https://jtmmartins.github.io/2017/11/26/eager-singleton/

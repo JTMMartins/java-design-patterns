@@ -1,0 +1,1 @@
+You can find some information about these code samples in : https://jtmmartins.github.io/2017/11/25/Singleton/
